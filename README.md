@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Norman Romero</h1>
 <h3 align="center">I'm a passionate Backend and mobile developer student!!</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: mromeroza1114@gmail.com</h3>
 <p align="left">
 </p>
 
